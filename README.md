@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **STMicroelectronics as consultant**<br>🌱 I’m currently learning **Angular and FE stuffs**<br>💬 Ask me about **Java and Springboot**
+🔭 I’m currently working on **STMicroelectronics as consultant**<br>🌱 I’m currently learning **React and FE stuffs**<br>💬 Ask me about **Java and Springboot**
 <br>📫 How to reach me: a-perotti2000@hotmail.com
 
 ## 🌐 Socials:
